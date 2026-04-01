@@ -1,0 +1,8 @@
+# MCU
+MCU = RP2040
+BOOTLOADER = rp2040
+
+# Build options
+BOOTMAGIC_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+NKRO_ENABLE = yes
