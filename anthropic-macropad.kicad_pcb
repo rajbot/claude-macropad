@@ -141,28 +141,6 @@
 			(layer "F.SilkS")
 			(uuid "63732c0c-d2dc-4df8-a699-0e3d849f4f97")
 		)
-		(fp_rect
-			(start -4.5 -10)
-			(end 4.5 -12)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.SilkS")
-			(uuid "84cb96fe-502f-43e1-af09-bc567c49aed4")
-		)
-		(fp_text user "USB-C"
-			(at 0 -11 0)
-			(layer "F.SilkS")
-			(uuid "fcf297d0-02e3-4d9e-91a1-d2b2251e8a8d")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.1)
-				)
-			)
-		)
 		(fp_text user "XIAO\nRP2040"
 			(at 0 0 0)
 			(layer "F.SilkS")
