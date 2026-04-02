@@ -248,7 +248,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "claude-macropad-more-track-width.kicad_pro",
+    "filename": "claude-macropad-manual-routing.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -305,8 +305,8 @@
     },
     "top_level_sheets": [
       {
-        "filename": "claude-macropad-more-track-width.kicad_sch",
-        "name": "claude-macropad-more-track-width",
+        "filename": "claude-macropad-manual-routing.kicad_sch",
+        "name": "claude-macropad-manual-routing",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ]
