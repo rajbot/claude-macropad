@@ -233,6 +233,18 @@
 
   )
 
+  (footprint "MountingHole:MountingHole_2.2mm_M2" (layer "F.Cu")
+    (at 60 68)
+    (descr "Mounting Hole 2.2mm M2")
+    (attr exclude_from_pos_files exclude_from_bom)
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers "*.Cu" "*.Mask"))
+  )
 
+  (footprint "MountingHole:MountingHole_2.2mm_M2" (layer "F.Cu")
+    (at 140 68)
+    (descr "Mounting Hole 2.2mm M2")
+    (attr exclude_from_pos_files exclude_from_bom)
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers "*.Cu" "*.Mask"))
+  )
 
 )
