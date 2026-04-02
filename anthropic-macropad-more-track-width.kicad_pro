@@ -285,7 +285,7 @@
       "idf": "",
       "netlist": "",
       "plot": "",
-      "specctra_dsn": "../../Downloads/anthropic-macropad.dsn",
+      "specctra_dsn": "../../Downloads/anthropic-macropad-fat.dsn",
       "vrml": ""
     },
     "page_layout_descr_file": ""
