@@ -248,7 +248,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "anthropic-macropad.kicad_pro",
+    "filename": "anthropic-macropad-more-track-width.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -303,7 +303,13 @@
     "meta": {
       "version": 1
     },
-    "top_level_sheets": []
+    "top_level_sheets": [
+      {
+        "filename": "anthropic-macropad-more-track-width.kicad_sch",
+        "name": "anthropic-macropad-more-track-width",
+        "uuid": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
   },
   "sheets": [],
   "text_variables": {},
