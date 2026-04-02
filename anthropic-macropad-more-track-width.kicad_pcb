@@ -84,7 +84,7 @@
 		(uuid "101a5b20-02d2-4d02-997b-c05b64e61324")
 		(at 140 68)
 		(descr "Mounting Hole 2.2mm M2")
-		(property "Reference" ""
+		(property "Reference" "H1"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "d4879e9f-c278-4292-80f3-b1b259336c23")
@@ -598,7 +598,7 @@
 		(uuid "753d73db-88f5-472d-b480-137a23cade2a")
 		(at 60 68)
 		(descr "Mounting Hole 2.2mm M2")
-		(property "Reference" ""
+		(property "Reference" "H2"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "afc1bf8f-7291-497a-8286-769433e37e67")
