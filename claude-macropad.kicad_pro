@@ -248,14 +248,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "anthropic-macropad-more-track-width.kicad_pro",
+    "filename": "claude-macropad.kicad_pro",
     "version": 3
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.4,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -266,7 +266,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
+        "track_width": 0.2,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -285,14 +285,14 @@
       "idf": "",
       "netlist": "",
       "plot": "",
-      "specctra_dsn": "../../Downloads/anthropic-macropad-fat.dsn",
+      "specctra_dsn": "../../Downloads/claude-macropad.dsn",
       "vrml": ""
     },
     "page_layout_descr_file": ""
   },
   "project": {
     "meta": {
-      "filename": "anthropic-macropad.kicad_pro",
+      "filename": "claude-macropad.kicad_pro",
       "version": 1
     }
   },
@@ -305,8 +305,8 @@
     },
     "top_level_sheets": [
       {
-        "filename": "anthropic-macropad-more-track-width.kicad_sch",
-        "name": "anthropic-macropad-more-track-width",
+        "filename": "claude-macropad.kicad_sch",
+        "name": "claude-macropad",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ]

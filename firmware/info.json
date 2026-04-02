@@ -1,5 +1,5 @@
 {
-    "manufacturer": "Anthropic Macropad",
+    "manufacturer": "Claude Macropad",
     "keyboard_name": "Claude Code Macropad",
     "maintainer": "raj",
     "bootloader": "rp2040",
