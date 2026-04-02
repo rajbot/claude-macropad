@@ -229,8 +229,8 @@
     (pad 14 thru_hole circle (at 7.62 7.62) (size 1.7 1.7) (drill 1.0) (layers "*.Cu" "*.Mask") (net 0 ""))
     (fp_rect (start -8.75 -10) (end 8.75 10) (layer "F.SilkS") (width 0.15))
     (fp_text user "XIAO\nRP2040" (at 0 0 0) (layer "F.SilkS") (effects (font (size 1.5 1.5) (thickness 0.2))))
-    (fp_rect (start -4.5 -10) (end 4.5 -12) (layer "F.SilkS") (width 0.15))
-    (fp_text user "USB-C" (at 0 -11 0) (layer "F.SilkS") (effects (font (size 0.8 0.8) (thickness 0.1))))
+
+
   )
 
 
